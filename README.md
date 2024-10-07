@@ -23,6 +23,6 @@ In my free time I like to play (and watch) Basketball (🏀), watch movies and s
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=NascimentoJhesimiel&show_icons=true&theme=github_dark&#gh-dark-mode-only)](https://github.com/NascimentoJhesimiel/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=NascimentoJhesimiel&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/NascimentoJhesimiel/github-readme-stats#gh-light-mode-only)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NascimentoJhesimiel&layout=compact&theme=github_dark" height="196px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NascimentoJhesimiel&layout=compact&theme=github_dark">
 
 [![Snake Animation]()
