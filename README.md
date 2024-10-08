@@ -39,9 +39,9 @@ In my free time I like to play (and watch) Basketball (🏀), watch movies and s
 </div>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="">
-  <source media="(prefers-color-scheme: light)" srcset="">
-  <img align="center" alt="github contribution grid snake animation" src="">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NascimentoJhesimiel/NascimentoJhesimiel/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NascimentoJhesimiel/NascimentoJhesimiel/blob/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://github.com/NascimentoJhesimiel/NascimentoJhesimiel/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 #
