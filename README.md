@@ -1,9 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1617f7&height=120&section=header"/>
 <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=1617F7&center=true&width=1200&height=60&lines=Hello!+My+name+is+Jhesimiel;And+i+am+a+FullStack+Developer" alt="Typing SVG" /></a>
 
+#
+
 My name is Jhesimiel Nascimento and i from Brazil. I've been working as FullStack Developer since 2023 and currently I'm student of systems analysis and development. And I'm passionate about programming.
 
 In my free time I like to play (and watch) Basketball (🏀), watch movies and series (📺), listen to music (🎵) and eventually I like to play FPS games like Rainbow Six Siege, Valorant, CS2 and others.
+
+#
 
 <img align="right" alt="" height="190px" src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif">
 
@@ -25,8 +29,12 @@ In my free time I like to play (and watch) Basketball (🏀), watch movies and s
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mari4souza/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mari4.souza/)
 
-<div style="display: inline_block" >
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NascimentoJhesimiel&show_icons=true&theme=github_dark&#gh-dark-mode-only">
+#
+
+<div style="display: inline_block">
+  <h3 align="center"> - GitHub Stats -</h3>
+  <br>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NascimentoJhesimiel&show_icons=true&theme=github_dark&#gh-dark-mode-only&bg_color=000&title_color=1617f7&text_color=FFF&border_radius=3&border_color=&icon_color=1617F7">
   <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NascimentoJhesimiel&layout=compact&theme=github_dark"">
 </div>
 
@@ -35,6 +43,8 @@ In my free time I like to play (and watch) Basketball (🏀), watch movies and s
   <source media="(prefers-color-scheme: light)" srcset="">
   <img align="center" alt="github contribution grid snake animation" src="">
 </picture>
+
+#
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
