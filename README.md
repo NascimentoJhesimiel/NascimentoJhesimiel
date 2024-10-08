@@ -25,9 +25,9 @@ In my free time I like to play (and watch) Basketball (🏀), watch movies and s
 
 <h3 align="left"> - Contact me! -</h3>
 
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meduardacardoso.121@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mari4souza/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mari4.souza/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhesimieljorgedev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhesimiel-nascimento-5206832b7/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/023_nascimento/)
 
 #
 
@@ -38,7 +38,11 @@ In my free time I like to play (and watch) Basketball (🏀), watch movies and s
   <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NascimentoJhesimiel&layout=compact&bg_color=000&title_color=1617f7&text_color=FFF&border_radius=3&border_color=1617F7&icon_color=1617F7"">
 </div>
 
-![snake animation](https://github.com/<NascimentoJhesimiel>/<NascimentoJhesimiel>/https://github.com/NascimentoJhesimiel/NascimentoJhesimiel/blob/output/github-contribution-grid-snake-dark.svg
+<picture align="center">
+  <source align="center" media="(prefers-color-scheme: dark)" srcset="https://github.com/NascimentoJhesimiel/NascimentoJhesimiel/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NascimentoJhesimiel/NascimentoJhesimiel/blob/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" width="100%" alt="github contribution grid snake animation" src="https://github.com/NascimentoJhesimiel/NascimentoJhesimiel/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 #
 
@@ -46,4 +50,5 @@ In my free time I like to play (and watch) Basketball (🏀), watch movies and s
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{NascimentoJhesimiel}/count.svg" /></p> 
 <br></div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1617f7&height=120&section=footer"/>
