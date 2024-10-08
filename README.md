@@ -34,14 +34,14 @@ In my free time I like to play (and watch) Basketball (🏀), watch movies and s
 <div style="display: inline_block">
   <h3 align="center"> - GitHub Stats -</h3>
   <br>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NascimentoJhesimiel&show_icons=true&theme=github_dark&#gh-dark-mode-only&bg_color=000&title_color=1617f7&text_color=FFF&border_radius=3&border_color=&icon_color=1617F7">
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NascimentoJhesimiel&layout=compact&theme=github_dark"">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NascimentoJhesimiel&show_icons=true&bg_color=000&title_color=1617f7&text_color=FFF&border_radius=3&border_color=1617F7&icon_color=1617F7">
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NascimentoJhesimiel&layout=compact&bg_color=000&title_color=1617f7&text_color=FFF&border_radius=3&border_color=1617F7&icon_color=1617F7"">
 </div>
 
-<picture align="center" width="100%">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NascimentoJhesimiel/NascimentoJhesimiel/blob/output/github-contribution-grid-snake-dark.svg">
+<picture align="center">
+  <source align="center" media="(prefers-color-scheme: dark)" srcset="https://github.com/NascimentoJhesimiel/NascimentoJhesimiel/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/NascimentoJhesimiel/NascimentoJhesimiel/blob/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://github.com/NascimentoJhesimiel/NascimentoJhesimiel/blob/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" width="100%" alt="github contribution grid snake animation" src="https://github.com/NascimentoJhesimiel/NascimentoJhesimiel/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 #
