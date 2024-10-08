@@ -27,7 +27,7 @@ In my free time I like to play (and watch) Basketball (🏀), watch movies and s
 
 <div style="display: inline_block" >
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NascimentoJhesimiel&show_icons=true&theme=github_dark&#gh-dark-mode-only">
-  <img width="47%" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NascimentoJhesimiel&layout=compact&theme=github_dark"">
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NascimentoJhesimiel&layout=compact&theme=github_dark"">
 </div>
 
 <picture align="center">
