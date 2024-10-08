@@ -12,7 +12,7 @@ In my free time I like to play (and watch) Basketball (🏀), watch movies and s
 <img align="right" alt="" height="190px" src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif">
 
 
-<h3 align="left">My Stacks </h3>
+<h3 align="left"> - My Stacks -</h3>
 <div style="display: inline_block" align="left">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -23,7 +23,7 @@ In my free time I like to play (and watch) Basketball (🏀), watch movies and s
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div><br>
 
-<h3 align="left">Contact me!</h3>
+<h3 align="left"> - Contact me! -</h3>
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meduardacardoso.121@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mari4souza/)
@@ -38,7 +38,7 @@ In my free time I like to play (and watch) Basketball (🏀), watch movies and s
   <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NascimentoJhesimiel&layout=compact&theme=github_dark"">
 </div>
 
-<picture align="center">
+<picture align="center" width="100%">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NascimentoJhesimiel/NascimentoJhesimiel/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/NascimentoJhesimiel/NascimentoJhesimiel/blob/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://github.com/NascimentoJhesimiel/NascimentoJhesimiel/blob/output/github-contribution-grid-snake-dark.svg">
