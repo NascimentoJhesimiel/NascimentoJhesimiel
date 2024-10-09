@@ -1,48 +1,34 @@
-name: Generate Snake
+name: Generate snake game
 
 on:
   schedule:
+    # Execute every 12 hours
     - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   build:
+    name: Jobs to update data
     runs-on: ubuntu-latest
-
     steps:
-      - name: Clone repo
+      # Checkout the repository
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up dist directory
-        run: |
-          rm -rf dist
-          mkdir dist
-
-      - name: Generate the snake files in './dist/'
-        uses: Platane/snk@v3
+      # Snake Animation
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |     
-            dist/github-contribution-grid-snake.gif
-            dist/github-contribution-grid-snake.svg
-          grid_size: 12x12  # Ajuste o tamanho da grade conforme necessário
-          color_snake: "#00FF00"  # Ajuste a cor da cobra conforme necessário
-          color_food: "#FF0000"  # Ajuste a cor da comida conforme necessário
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          snake_color: 'blue'
 
-      - name: Show build status
-        run: git status
-
-      - name: Push new files to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      # Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
-          commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
