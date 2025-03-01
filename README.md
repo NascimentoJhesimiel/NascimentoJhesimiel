@@ -9,19 +9,19 @@ In my free time I like to play (and watch) Basketball (🏀), watch movies and s
 
 #
 
-<img align="right" alt="" height="190px" src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif">
+<img align="right" alt="" height="220px" src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif">
 
 
 <h3 align="left"> - Techs -</h3>
 <div style="display: inline_block" align="left">
-  <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="SASS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
 </div><br>
 
 <h3 align="left"> - Contact me! -</h3>
@@ -40,12 +40,12 @@ In my free time I like to play (and watch) Basketball (🏀), watch movies and s
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NascimentoJhesimiel}/count.svg" /></p> 
+<p align="center"><img align="center" width="30%" src="https://profile-counter.glitch.me/{NascimentoJhesimiel}/count.svg" /></p> 
 <br></div>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NascimentoJhesimiel/NascimentoJhesimiel/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NascimentoJhesimiel/NascimentoJhesimiel/output/github-contribution-grid-snake.svg">
+  <source width="100%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NascimentoJhesimiel/NascimentoJhesimiel/output/github-contribution-grid-snake-dark.svg">
+  <source width="100%" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NascimentoJhesimiel/NascimentoJhesimiel/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NascimentoJhesimiel/NascimentoJhesimiel/output/github-contribution-grid-snake.svg">
 </picture>
 
