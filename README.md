@@ -3,7 +3,7 @@
 
 #
 
-My name is Jhesimiel Nascimento and i from Brazil. I've been working as FullStack Developer since 2023 and currently I'm student of systems analysis and development. And I'm passionate about programming.
+My name is Jhesimiel Nascimento and i from Brazil. I've been studying since 2023 and currently I'm student of systems analysis and development. And I'm passionate about programming.
 
 In my free time I like to play (and watch) Basketball (🏀), watch movies and series (📺), listen to music (🎵) and eventually I like to play FPS games like Rainbow Six Siege, Valorant, CS2 and others.
 
@@ -12,7 +12,7 @@ In my free time I like to play (and watch) Basketball (🏀), watch movies and s
 <img align="right" alt="" height="190px" src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif">
 
 
-<h3 align="left"> - My Stacks -</h3>
+<h3 align="left"> - Techs -</h3>
 <div style="display: inline_block" align="left">
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
@@ -28,8 +28,6 @@ In my free time I like to play (and watch) Basketball (🏀), watch movies and s
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhesimieljorgedev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhesimiel-nascimento-5206832b7/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/023_nascimento/)
-
 #
 
 <div style="display: inline_block">
