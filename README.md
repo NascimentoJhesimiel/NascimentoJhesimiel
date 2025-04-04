@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1617f7&height=120&section=header"/>
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=1617F7&center=true&width=1200&height=60&lines=Hello!+My+name+is+Jhesimiel;And+i'm+a+FullStack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=1000&color=1617F7&center=true&width=1200&height=60&lines=Hello!+My+name+is+Jhesimiel;And+i'm+a+FullStack+Developer" alt="Typing SVG" /></a>
 
 #
 
-My name is Jhesimiel Nascimento and i from Brazil. I've been studying since 2023 and currently I'm student of systems analysis and development. And I'm passionate about programming.
+My name is Jhesimiel Nascimento and i from Brazil. I've been studying since 2023 and currently I'm student of systems analysis and development and I'm passionate about programming.
 
 In my free time I like to play (and watch) Basketball (🏀), watch movies and series (📺), listen to music (🎵) and eventually I like to play FPS games like Rainbow Six Siege, Valorant, CS2 and others.
 
@@ -33,8 +33,10 @@ In my free time I like to play (and watch) Basketball (🏀), watch movies and s
 <div style="display: inline_block">
   <h3 align="center"> - GitHub Stats -</h3>
   <br>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NascimentoJhesimiel&show_icons=true&bg_color=000&title_color=1617f7&text_color=FFF&border_radius=3&border_color=1617F7&icon_color=1617F7">
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NascimentoJhesimiel&layout=compact&bg_color=000&title_color=1617f7&text_color=FFF&border_radius=3&border_color=1617F7&icon_color=1617F7"">
+  <div align="center">
+    <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=NascimentoJhesimiel&show_icons=true&bg_color=000&title_color=1617f7&text_color=FFF&border_radius=3&border_color=1617F7&icon_color=1617F7">
+    <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NascimentoJhesimiel&layout=compact&bg_color=000&title_color=1617f7&text_color=FFF&border_radius=3&border_color=1617F7&icon_color=1617F7"">
+  </div>
 </div>
 
 
