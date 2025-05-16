@@ -1,11 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1617f7&height=120&section=header"/>
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=1000&color=1617F7&center=true&width=1200&height=60&lines=Hello!+My+name+is+Jhesimiel;And+i'm+a+FullStack+Developer" alt="Typing SVG" /></a>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=1000&color=1617F7&center=true&width=1200&height=60&lines=Olá!+meu+nome+é+Jhesimiel;Desenvolvedor+FullStack" alt="Typing SVG" /></p>
 
-#
-
-My name is Jhesimiel Nascimento and i from Brazil. I've been studying since 2023 and currently I'm student of systems analysis and development and I'm passionate about programming.
-
-In my free time I like to play (and watch) Basketball (🏀), watch movies and series (📺), listen to music (🎵) and eventually I like to play FPS games like Rainbow Six Siege, Valorant, CS2 and others.
+<br>
+<div style="display: inline_block" align="left">
+  <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
+  
+  - 🎓 &nbsp; <b>Cursando:</b> Análise e Desenvolvimento de Sistemas na Uninassau
+  - 💼 &nbsp; <b>Trabalhando: Portfólio</b>
+  - 🌱 &nbsp; <b>Aprendendo: </b> Java e Angular
+  - ❤️ &nbsp; <b>Apaixonado:</b> Tecnologia e café
+  - 🔭 &nbsp; <b>Objetivos: </b> Github Foundations, AZ-900 e AI-900
+</div>
 
 #
 
@@ -24,33 +29,19 @@ In my free time I like to play (and watch) Basketball (🏀), watch movies and s
   <img align="center" alt="SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
 </div><br>
 
-<h3 align="left"> - Contact me! -</h3>
+<h3 align="left"> - Contatos -</h3>
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhesimieljorgedev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhesimiel-nascimento-5206832b7/)
 #
+<h3 align="center"> - Github Stats -</h3>
 
-<div style="display: inline_block">
-  <h3 align="center"> - GitHub Stats -</h3>
-  <br>
-  <div align="center">
-    <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=NascimentoJhesimiel&show_icons=true&bg_color=000&title_color=1617f7&text_color=FFF&border_radius=3&border_color=1617F7&icon_color=1617F7">
-    <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NascimentoJhesimiel&layout=compact&bg_color=000&title_color=1617f7&text_color=FFF&border_radius=3&border_color=1617F7&icon_color=1617F7"">
-  </div>
-</div>
+![Jhesimiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=NascimentoJhesimiel&show_icons=true&bg_color=000&title_color=1617f7&text_color=FFF&border_radius=3&border_color=1617F7&icon_color=1617F7)
 
-
+    
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><h3>Visitors Count</h3></p>  
 <p align="center"><img align="center" width="30%" src="https://profile-counter.glitch.me/{NascimentoJhesimiel}/count.svg" /></p> 
-<br></div>
-
-<picture align="center">
-  <source width="100%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NascimentoJhesimiel/NascimentoJhesimiel/output/github-contribution-grid-snake-dark.svg">
-  <source width="100%" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NascimentoJhesimiel/NascimentoJhesimiel/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NascimentoJhesimiel/NascimentoJhesimiel/output/github-contribution-grid-snake.svg">
-</picture>
-
-
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1617f7&height=120&section=footer"/>
