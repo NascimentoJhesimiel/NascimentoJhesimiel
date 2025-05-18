@@ -6,7 +6,6 @@
   <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
   
   - 🎓 &nbsp; <b>Cursando:</b> Análise e Desenvolvimento de Sistemas na Uninassau
-  - 💼 &nbsp; <b>Trabalhando: Portfólio</b>
   - 🌱 &nbsp; <b>Aprendendo: </b> Java e Angular
   - ❤️ &nbsp; <b>Apaixonado:</b> Tecnologia e café
   - 🔭 &nbsp; <b>Objetivos: </b> Github Foundations, AZ-900 e AI-900
