@@ -9,7 +9,6 @@ I'm a Full-Stack Developer and passionate about technology and innovation. Curre
 
 💬 Feel free to reach out to discuss tech or just have a friendly chat!
 
-<br>
 
 ## 🚀 Skills
 
@@ -54,6 +53,8 @@ I'm a Full-Stack Developer and passionate about technology and innovation. Curre
 
 </div>
 
-
+<p align="center">
+  <img src="https://github.com/NascimentoJhesimiel/NascimentoJhesimiel/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1617f7&height=120&section=footer"/>
