@@ -58,13 +58,12 @@ I'm a Full-Stack Developer and passionate about technology and innovation. Curre
  </div> 
     
 <div align="center">
-  
+
   ### Visitors Count  
-  <p align="center"><img align="center" width="30%" src="https://profile-counter.glitch.me/{NascimentoJhesimiel}/count.svg" /></p>
+  ![Visitor Count](https://profile-counter.glitch.me/{NascimentoJhesimiel}/count.svg)
 
 </div>
 
-<p align="center">
-  ![snake gif](https://github.com/NascimentoJhesimiel/NascimentoJhesimiel/blob/output/github-contribution-grid-snake.svg)
-<p/>
+![Snake Gif](https://github.com/NascimentoJhesimiel/NascimentoJhesimiel/blob/output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1617f7&height=120&section=footer"/>
