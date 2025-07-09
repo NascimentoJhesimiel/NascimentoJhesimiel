@@ -1,0 +1,53 @@
+# Nome da Actions:
+name: snake_generator
+
+# Controlador do tempo que sera feito a atualização dos arquivos.
+on:
+  schedule:
+    # Será atualizado a cada 5 horas.
+    - cron: "0 */5 * * *"
+
+  # Permite executar na na lista de Actions (utilizado para testes de build).
+  workflow_dispatch:
+
+# Permissões necessárias
+permissions:
+  contents: write
+
+# Regras
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout do repositório
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Gerar o snake game
+      - name: Generate snake game
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: NascimentoJhesimiel
+          outputs: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Verificar se há mudanças
+      - name: Check for changes
+        id: verify-changed-files
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      # Commit e push das mudanças se houver
+      - name: Commit and push changes
+        if: steps.verify-changed-files.outputs.changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add *.svg
+          git commit -m "🐍 Update snake animations"
+          git push
