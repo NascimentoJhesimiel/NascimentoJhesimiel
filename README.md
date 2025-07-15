@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=55&pause=700&color=1617F7&center=true&vCenter=true&width=2000&height=60&lines=Hi!+i'm+Jhesimiel!%F0%9F%91%8B;Full-Stack+Developer)](https://git.io/typing-svg)
 
 ## ♠️ Welcome!
+
 I'm a Full-Stack Developer and passionate about technology and innovation. Currently pursuing a Bachelor's in Systems Analysis and Development at Uninassau (1st period). Also i have a keen interest in develop Java web applications and Cloud Computing.
 
 🔭 Working on exciting projects and looking for new opportunities to collaborate and grow.
@@ -24,6 +25,7 @@ I'm a Full-Stack Developer and passionate about technology and innovation. Curre
 ## 🚀 Skills
 
 ### Stacks
+
 <div style="display: inline_block">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=1617F7">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=1617F7">
@@ -34,6 +36,7 @@ I'm a Full-Stack Developer and passionate about technology and innovation. Curre
 </div>
 
 ### Frameworks
+
 <div style="display: inline_block" align="left">
   <img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=1617F7">
   <img alt="Angular" src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=1617F7">
@@ -43,6 +46,7 @@ I'm a Full-Stack Developer and passionate about technology and innovation. Curre
 </div>
 
 ### Databases
+
 <div style="display: inline_block" align="left">
   <img alt="MySQL" src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=1617F7">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=1617F7">
@@ -52,18 +56,10 @@ I'm a Full-Stack Developer and passionate about technology and innovation. Curre
 <br>
 
 ## 📈 GitHub Stats
+
 <div align="center" style="inline_block">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NascimentoJhesimiel&show_icons=true&bg_color=000&title_color=1617f7&text_color=FFF&border_radius=3&border_color=1617F7&icon_color=1617F7" alt="Jhesimiel's GitHub Stats"/> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NascimentoJhesimiel&layout=compact&hide_border=false&title_color=FFF&text_color=1617F7&bg_color=000000&border_color=1617F7" alt="Jhesimiel's Top Languages" />
- </div> 
-
-
-<div align="center">
-  <picture>
-  <h1> ⭐ Visitors count</h1>
-    <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FNascimentoJhesimiel&s=40&c=00ff00&bg=00000000&no=6&ff=digi&tb=&ta=" alt="visits">
-  </picture>
-
 </div>
 
 <div align="center">
