@@ -56,11 +56,13 @@ I'm a Full-Stack Developer and passionate about technology and innovation. Curre
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NascimentoJhesimiel&show_icons=true&bg_color=000&title_color=1617f7&text_color=FFF&border_radius=3&border_color=1617F7&icon_color=1617F7" alt="Jhesimiel's GitHub Stats"/> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NascimentoJhesimiel&layout=compact&hide_border=false&title_color=FFF&text_color=1617F7&bg_color=000000&border_color=1617F7" alt="Jhesimiel's Top Languages" />
  </div> 
-    
-<div align="center">
 
-  ### Visitors Count  
-  ![Visitor Count](https://profile-counter.glitch.me/{NascimentoJhesimiel}/count.svg)
+
+<div align="center">
+  <picture>
+  <h1> ⭐ Visitors count</h1>
+    <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FNascimentoJhesimiel&s=40&c=00ff00&bg=00000000&no=6&ff=digi&tb=&ta=" alt="visits">
+  </picture>
 
 </div>
 

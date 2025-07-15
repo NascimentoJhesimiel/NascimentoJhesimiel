@@ -1,20 +1,15 @@
-# Nome da Actions:
+
 name: snake_generator
 
-# Controlador do tempo que sera feito a atualização dos arquivos.
 on:
   schedule:
-    # Será atualizado a cada 5 horas.
     - cron: "0 */5 * * *"
 
-  # Permite executar na na lista de Actions (utilizado para testes de build).
   workflow_dispatch:
 
-# Permissões necessárias
 permissions:
   contents: write
 
-# Regras
 jobs:
   build:
     runs-on: ubuntu-latest
