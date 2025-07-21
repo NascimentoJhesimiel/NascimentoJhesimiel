@@ -4,7 +4,7 @@
 
 ## ♠️ Welcome!
 
-I'm a Full-Stack Developer and passionate about technology and innovation. Currently pursuing a Bachelor's in Systems Analysis and Development at Uninassau (1st period). Also i have a keen interest in develop Java web applications and Cloud Computing.
+I'm a Full-Stack Developer and passionate about technology and innovation. Currently pursuing a Bachelor's in Systems Analysis and Development at Uninassau. Also i have a keen interest in develop Java web applications and Cloud Computing.
 
 🔭 Working on exciting projects and looking for new opportunities to collaborate and grow.
 
