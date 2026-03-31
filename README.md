@@ -55,12 +55,7 @@ I'm a Full-Stack Developer and passionate about technology and innovation. Curre
 
 <br>
 
-## 📈 GitHub Stats
-
-<div align="center" style="inline_block">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NascimentoJhesimiel&show_icons=true&bg_color=000&title_color=1617f7&text_color=FFF&border_radius=3&border_color=1617F7&icon_color=1617F7" alt="Jhesimiel's GitHub Stats"/> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NascimentoJhesimiel&layout=compact&hide_border=false&title_color=FFF&text_color=1617F7&bg_color=000000&border_color=1617F7" alt="Jhesimiel's Top Languages" />
-</div>
+##
 
 <div align="center">
   <picture>
